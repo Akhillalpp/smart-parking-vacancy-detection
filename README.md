@@ -32,7 +32,7 @@ Unlike traditional approaches, this system works for:
 - Total capacity is predefined  
 - Vacant slots = Capacity − Detected vehicles  
 
-#### Case B: Non-Demarcated Parking (Key Contribution)
+#### Case B: Non-Demarcated Parking
 
 Two custom approaches:
 
