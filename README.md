@@ -1,4 +1,4 @@
-# 🚗 Smart Parking Vacancy Detection using YOLO
+# Smart Parking Vacancy Detection using YOLO
 
 An intelligent computer vision system for detecting vacant parking spaces from surveillance camera footage using YOLO-based object detection and custom algorithms for both demarcated and non-demarcated parking lots.
 
@@ -56,14 +56,4 @@ Two custom approaches:
 
 ---
 
-## 🎥 Demo
 
-Add demo images or videos here.
-
-Example:
-- Input frame → detected cars  
-- Output → highlighted vacant spaces  
-
----
-
-## 📂 Project Structure
