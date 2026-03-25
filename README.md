@@ -1,4 +1,4 @@
-# 🚗 Smart Parking Vacancy Detection using YOLO
+# Smart Parking Vacancy Detection using YOLO
 
 📄 Published in IEEE ICCC 2023  
 
