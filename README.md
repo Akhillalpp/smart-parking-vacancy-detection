@@ -49,7 +49,7 @@ Two custom approaches:
 
 ## 📊 Results
 
-<img src="images/yolo.PNG" width="900">
+<img src="images/yolo.PNG" width="600">
 
 - Average Precision (AP): ~88.25%  
 - Accuracy (Non-demarcated parking): ~96.47%  
