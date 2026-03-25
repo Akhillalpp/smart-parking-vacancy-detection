@@ -1,6 +1,6 @@
-# Smart Parking Vacancy Detection using YOLO
+# 🚗 Smart Parking Vacancy Detection using YOLO
 
-📄 Published in IEEE ICCC 2023
+📄 Published in IEEE ICCC 2023  
 
 An intelligent computer vision system for detecting vacant parking spaces from surveillance camera footage using YOLO-based object detection and custom algorithms for both demarcated and non-demarcated parking lots.
 
@@ -19,31 +19,31 @@ Unlike traditional approaches, this system works for:
 ## ⚙️ Approach
 
 ### 1. Vehicle Detection
-- YOLOv3 is used to detect cars in each frame
-- Outputs bounding boxes with confidence scores
+- YOLOv3 is used to detect cars in each frame  
+- Outputs bounding boxes with confidence scores  
 
 ### 2. Motion Filtering
-- Moving vehicles are filtered using IoU-based frame comparison
-- Only stationary vehicles are considered for occupancy
+- Moving vehicles are filtered using IoU-based frame comparison  
+- Only stationary vehicles are considered for occupancy  
 
 ### 3. Vacancy Detection
 
 #### Case A: Demarcated Parking
-- Total capacity is predefined
-- Vacant slots = Capacity − Detected vehicles
+- Total capacity is predefined  
+- Vacant slots = Capacity − Detected vehicles  
 
 #### Case B: Non-Demarcated Parking (Key Contribution)
 
 Two custom approaches:
 
 **Sliding Window Estimation**
-- Scans image using reference car dimensions
-- Detects regions with low overlap
+- Scans image using reference car dimensions  
+- Detects regions with low overlap  
 
 **Reference Box Algorithm (Improved)**
-- Uses a fully occupied parking image as baseline
-- Compares overlap to detect vacancy
-- Handles irregular layouts and orientations
+- Uses a fully occupied parking image as baseline  
+- Compares overlap to detect vacancy  
+- Handles irregular layouts and orientations  
 
 ---
 
@@ -66,5 +66,20 @@ Two custom approaches:
 Presented at *IEEE International Conference on Control, Communication and Computing (ICCC)*, 2023  
 📍 Thiruvananthapuram, India  
 📅 May 2023  
-🔗 DOI: https://doi.org/10.1109/ICCC57789.2023.1016555
+🔗 https://doi.org/10.1109/ICCC57789.2023.1016555  
 
+---
+
+## Acknowledgment
+
+This project is based on collaborative research work conducted at NIT Calicut.
+
+Co-authors of the associated IEEE publication:
+- Shalu Francis  
+- Anjana Ouseph  
+- Durgaprasad S  
+- Hani Abdulla  
+- Akhil Lal  
+- S. Likhith  
+- Dhanaraj K J  
+- Harikrishna M  
