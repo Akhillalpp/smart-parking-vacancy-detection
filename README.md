@@ -40,7 +40,7 @@ Two custom approaches:
 - Scans image using reference car dimensions  
 - Detects regions with low overlap  
 
-**Reference Box Algorithm (Improved)**
+**Reference Box Algorithm**
 - Uses a fully occupied parking image as baseline  
 - Compares overlap to detect vacancy  
 - Handles irregular layouts and orientations  
