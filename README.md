@@ -49,7 +49,7 @@ Two custom approaches:
 
 ## 📊 Results
 
-Irregular Parking Lot Vacancy Detection (Algorithm-2)
+### Irregular Parking Lot Vacancy Detection (Algorithm-2)
 <img src="images/yolo.PNG" width="600">
 
 - Average Precision (AP): ~88.25%  
