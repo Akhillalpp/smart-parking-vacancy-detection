@@ -1,6 +1,6 @@
 # Smart Parking Vacancy Detection using YOLO
 
-📄 Published in IEEE ICCC 2023  🔗 https://doi.org/10.1109/ICCC57789.2023.1016555 
+📄 Presented at IEEE ICCC 2023 and published in IEEE Xplore  🔗 https://doi.org/10.1109/ICCC57789.2023.1016555 
 
 An intelligent computer vision system for detecting vacant parking spaces from surveillance camera footage using YOLO-based object detection and custom algorithms for both demarcated and non-demarcated parking lots.
 
